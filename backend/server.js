@@ -26,7 +26,7 @@ connectDB();
 
 
 app.use(cors({
-  origin: 'http://localhost:5173', credentials: true,
+  origin: 'https://inquisitive-tiramisu-203568.netlify.app', credentials: true,
 }))
 
 // Middlewares
