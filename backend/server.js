@@ -26,7 +26,7 @@ connectDB();
 
 
 app.use(cors({
-  origin: 'https://inquisitive-tiramisu-203568.netlify.app', credentials: true,
+  origin: 'https://topnlink-ui.netlify.app', credentials: true,
 }))
 
 // Middlewares
